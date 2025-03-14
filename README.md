@@ -6,6 +6,8 @@ A powerful data analysis tool for Hevy workout exports that helps you track and 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.43.2-red)
 
+**Live App:** [https://hevyworkoutanalyzer.streamlit.app/](https://hevyworkoutanalyzer.streamlit.app/)
+
 ## Features
 
 - **Hevy Account Integration**: Log in with your Hevy credentials to automatically sync your workout data
